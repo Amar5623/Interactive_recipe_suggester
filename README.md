@@ -33,12 +33,8 @@ Contributions to this project are welcome! If you have a favorite recipe or an i
 5. Push to your forked repository: `git push origin feature/recipe-name`.
 6. Create a pull request, detailing your changes and the purpose of the pull request.
 
-## Acknowledgments
-
-- Special thanks to @Amar5623 for the original idea and inspiration.
-
 ## Contact
 
-For any questions or inquiries about this project, feel free to contact us at amar.tiwari.8355@gmail.com or reach out on Twitter: [@Tiwari__Amar](https://twitter.com/Tiwari__Amar) or you can reach out to us on Discord: [rexon2.0].
+For any questions or inquiries about this project, feel free to contact us at amar.tiwari.8355@gmail.com or reach out on Twitter: [@Tiwari__Amar](https://twitter.com/Tiwari__Amar) or you can reach out to us on Discord: rexon2.0.
 
 Enjoy exploring new recipes and happy cooking!
